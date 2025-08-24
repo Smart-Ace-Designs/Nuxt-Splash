@@ -37,13 +37,13 @@ After deploying the Nuxt **Splash** template you will see the following files an
 ├── app/
 │   ├── assets/
 │   │   └── css
-|   |       └── main.css
+│   │       └── main.css
 │   ├── pages/
 │   │   └── index.vue
 │   └── app.vue
 ├── public/
 │   ├── favicon.ion
-|   └── robots.txt
+│   └── robots.txt
 ├── .gitignore
 ├── .prettierrc
 ├── nuxt.config.ts
@@ -51,3 +51,4 @@ After deploying the Nuxt **Splash** template you will see the following files an
 ├── README.md
 └── tsconfig.json
 ```
+
