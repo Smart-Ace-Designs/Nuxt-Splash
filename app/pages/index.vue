@@ -1,5 +1,5 @@
 <script setup lang="ts"></script>
 
 <template>
-<!-- Begin your app here... -->
+<!-- Begin your project here... -->
 </template>
