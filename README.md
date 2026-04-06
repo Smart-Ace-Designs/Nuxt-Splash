@@ -11,7 +11,7 @@ The template includes:
 - [Prettier](https://prettier.io/)
 - Initial <head> elements for language and title set in _nuxt.config.ts_
 - A default _main.css_ file
-- Default _.vscode_ files to properly handle Tailwind CSS, recommended extensions, and default Prettier formatters
+- Default _.vscode_ files for Prettier and Tailwind CSS settings and recommended extensions
 - A blank _index.vue_ page
 - The `dev` script set to `"nuxt dev -o"`
 
