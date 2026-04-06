@@ -7,7 +7,7 @@ Using `create nuxt@latest` provides everything you need to create a basic Nuxt a
 The template includes:
 
 - An initial Nuxt project structure
-- [Tailwind CSS v4.1](https://tailwindcss.com/)
+- [Tailwind CSS v4.2](https://tailwindcss.com/)
 - [Prettier](https://prettier.io/)
 - Initial <head> elements for language and title set in _nuxt.config.ts_
 - A default _main.css_ file
@@ -49,7 +49,7 @@ After deploying the Nuxt **Splash** template you will see the following files an
 │   │   └── index.vue
 │   └── app.vue
 ├── public/
-│   ├── favicon.ion
+│   ├── favicon.ico
 │   └── robots.txt
 ├── .gitignore
 ├── .prettierrc
