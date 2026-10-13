@@ -3,9 +3,20 @@
     "*.css": "tailwindcss",
     "*.scss": "tailwindcss"
   },
-  "tailwindCSS.classAttributes": ["active-class", "class", "inactive-class", "ui"],
+  "tailwindCSS.classAttributes": [
+    "active-class",
+    "class",
+    "inactive-class",
+    "ui"
+  ],
   "tailwindCSS.experimental.classRegex": [
-    ["ui:\\s*{([^)]*)\\s*}", "(?:'|\"|`)([^']*)(?:'|\"|`)"],
-    ["bodyAttrs:\\s*{[^}]*class:\\s*['\"`]([^'\"`]*)['\"`]", "([^ ]*)"]
+    [
+      "ui:\\s*{([^)]*)\\s*}",
+      "(?:'|\"|`)([^']*)(?:'|\"|`)"
+    ],
+    [
+      "bodyAttrs:\\s*{[^}]*class:\\s*['\"`]([^'\"`]*)['\"`]",
+      "([^ ]*)"
+    ]
   ]
 }
