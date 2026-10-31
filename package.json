@@ -19,5 +19,8 @@
   "devDependencies": {
     "prettier": "^3.9.10",
     "prettier-plugin-tailwindcss": "^0.8.1"
+  },
+  "overrides": {
+    "@nuxt/devtools": "^4.0.0"
   }
 }
