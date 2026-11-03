@@ -58,6 +58,5 @@ After deploying the Nuxt **Splash** template you will see the following files an
 ├── .prettierrc
 ├── nuxt.config.ts
 ├── package.json
-├── README.md
 └── tsconfig.json
 ```
