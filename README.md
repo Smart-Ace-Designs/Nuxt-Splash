@@ -29,6 +29,12 @@ bunx giget gh:smart-ace-designs/nuxt-splash project-name --ignore README.md
 npx giget gh:smart-ace-designs/nuxt-splash project-name --ignore README.md
 ```
 
+### pnpm
+
+```sh
+pnx giget gh:smart-ace-designs/nuxt-splash project-name --ignore README.md
+```
+
 ## Project Structure
 
 After deploying the Nuxt **Splash** template you will see the following files and directories in your project root:
