@@ -20,13 +20,13 @@ The template includes:
 ### bun
 
 ```sh
-bunx giget gh:smart-ace-designs/nuxt-splash project-name
+bunx giget gh:smart-ace-designs/nuxt-splash project-name --ignore README.md
 ```
 
 ### npm
 
 ```sh
-npx giget gh:smart-ace-designs/nuxt-splash project-name
+npx giget gh:smart-ace-designs/nuxt-splash project-name --ignore README.md
 ```
 
 ## Project Structure
