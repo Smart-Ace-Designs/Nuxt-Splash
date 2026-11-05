@@ -21,6 +21,6 @@
     "prettier-plugin-tailwindcss": "^0.8.1"
   },
   "overrides": {
-    "@nuxt/devtools": "^4.0.0"
+    "@nuxt/devtools": "^4.1.0"
   }
 }
