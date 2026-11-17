@@ -55,8 +55,8 @@ After deploying the Nuxt **Splash** template you will see the following files an
 │   ├── favicon.ico
 │   └── robots.txt
 ├── .gitignore
-├── .prettierrc
 ├── nuxt.config.ts
 ├── package.json
+├── prettier.config.ts
 └── tsconfig.json
 ```
